@@ -7,3 +7,5 @@ En este proyecto se tienen 4 carpetas: [Brains](https://github.com/mateolopezare
 * La carpeta [Scene](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Scene) tiene dos escenas, uno para la realización de pruebas con un entorno mas pequeño, y la escena para el entrenamiento final del proyecto.
 * La carpeta [Prefab](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Prefab) únicamente consta de el entorno del proyecto, donde se encuentran todos los agentes. 
 * La carpeta [Scripts](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Scripts) es donde se encuentra el código para el agente y el entorno, escritos en C#.
+
+![ehu](https://user-images.githubusercontent.com/63507571/87540253-a3e4c500-c69f-11ea-95bc-a7f67b0dddad.png)
