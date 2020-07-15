@@ -1,7 +1,7 @@
 # TFG - APRENDIZAJE PROFUNDO POR REFUERZO PARA AUTÓMATAS CELULARES MULTI-POBLACIONALES: DISEÑO DE POLÍTICAS LOCALES, GRUPALES Y GLOBALES
 ### Esto es un proyecto de Unity junto con el toolkit de ML-Agents con el fin de explorar cómo controlar las dinámicas comportamentales de sistemas multiagente multipoblacionales
 En este proyecto se tienen 4 carpetas: [Brains](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Brains), [Materials](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Materials), [Scene](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Scene), [Prefab](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Prefab), [Scripts](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Scripts).
-* La carpeta [Brains](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Brains) contiene las redes neuronales que entrenadas para cada caso descrito en el documento, y posteriormente analizados.
+* La carpeta [Brains](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Brains) contiene las redes neuronales entrenadas para cada caso descrito en el documento, y posteriormente analizadas.
 * La carpeta [Materials](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Materials) guarda los materiales que coge el agente, es decir los colores con los que referencia de que población es.
 * La carpeta [Scene](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Scene) tiene dos escenas, uno para la realización de pruebas con un entorno más pequeño, y la escena para el entrenamiento final del proyecto.
 * La carpeta [Prefab](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Prefab) únicamente consta del entorno del proyecto, donde se encuentran todos los agentes. 
