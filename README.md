@@ -3,4 +3,4 @@
 
 En este proyecto se tienen 4 carpetas. Brains, Materials, Scene, Prefab, Scripts.
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub](https://github.com/mateolopezareal/TFG/tree/master/Proyecto/Brains)
